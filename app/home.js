@@ -75,7 +75,7 @@ export default class ListExample extends Component {
               <Text >Badge</Text>
             </ListItem> 
             <ListItem onPress={ this.onButtonClick }>
-              <Text >Button</Text>
+              <Text >Buttons</Text>
             </ListItem>    
             <ListItem onPress={ this.onCardClick }>
               <Text >Card</Text>
